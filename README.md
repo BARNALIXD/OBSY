@@ -1,1 +1,3 @@
 # Obys Agency Website Clone
+The "Obys Agency Clone" is a web development project designed to replicate the website of Obys Agency, a modern digital agency known for its sleek design and interactive elements. These clones aim to mirror the visual and functional aspects of the original site, providing users with the opportunity to explore various web design principles and technologies in a practical setting.
+The technologies used typically include HTML5 for structuring content, CSS3 for styling, and JavaScript for adding interactive features. Additionally, advanced libraries such as GSAP and Shery.js are often incorporated to provide rich animations and effects.
